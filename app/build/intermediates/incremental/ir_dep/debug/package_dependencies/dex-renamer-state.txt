@@ -1,0 +1,7 @@
+#Sat Sep 29 22:26:01 IST 2018
+base.0=D\:\\moderider\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\moderider\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
